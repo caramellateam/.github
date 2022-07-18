@@ -4,3 +4,9 @@
 AI , SW
 
 [홈페이지](https://caramella.kr)
+
+
+
+### 함께 하셨던 고마운 분들
+- (soy2on)[https://github.com/soy2on]
+- (bignami)[https://github.com/bignami]

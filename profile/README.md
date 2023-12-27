@@ -12,3 +12,4 @@ AI , SW
 - [bignami](https://github.com/bignami)
 - [Haneum-Park](https://github.com/Haneum-Park)
 - [sooobb](https://github.com/sooobb)
+- [DongE](https://github.com/Daae-Kim)

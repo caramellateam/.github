@@ -14,3 +14,5 @@ AI , SW
 - [sooobb](https://github.com/sooobb)
 - [DongE](https://github.com/Daae-Kim)
 - [chaemina](https://github.com/chaemina)
+- [chifuyu74](https://github.com/chifuyu74)
+

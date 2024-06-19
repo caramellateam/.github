@@ -15,4 +15,5 @@ AI , SW
 - [DongE](https://github.com/Daae-Kim)
 - [chaemina](https://github.com/chaemina)
 - [chifuyu74](https://github.com/chifuyu74)
+- [mark42](https://github.com/Mark-42ko)
 
